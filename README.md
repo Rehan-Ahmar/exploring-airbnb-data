@@ -25,7 +25,7 @@ The analysis is divided into 4 files. The name of the files are self-explanatory
 - The most important features which influence prices of Airbnb listings in Seattle are bedrooms, accommodates, bathrooms, beds - all indicating the size of the listing. Room type(Entire Apartment/House, Private Room or Shared Room) and reviews per month are also important features. Location also plays an important role.
   The most important amenities influencing price are Family/Kid Friendly, TV, Indoor Fireplace, Elevator in Building, Hot Tub, Gym and Kitchen.
 
-For a more detailed non-technical discussion, check out [my blog post]().
+For a more detailed non-technical discussion, check out [my blog post](https://medium.com/@rehan.ahmar/analyzing-airbnb-open-data-following-crisp-dm-methodology-afbc7b1a9b64).
 
 ## Acknowledgements
 Thanks to Airbnb and Kaggle for the data, and Udacity for course meterial.
