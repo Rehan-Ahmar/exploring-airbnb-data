@@ -18,7 +18,7 @@ The three business questions which I have tried to answer in this project are as
 - What are the most important factors influencing the price of Airbnb listings?
 
 <a name="installation"></a>
-## Installation:
+## Installation
 
 The code should run using any Python versions 3.*. I used python 3.6.
 
@@ -27,7 +27,7 @@ Libraries Used : numpy, pandas, matplotlib, seaborn, sklearn
 If you don't have python already installed, I would suggest you to install the Anaconda distribution of Python, as you will get all the necessary libraries together.
 
 <a name="files"></a>
-## File Descriptions:
+## File Descriptions
 The analysis is divided into 4 files. The name of the files are self-explanatory. Each of the notebooks contains code and explains the detailed analysis performed to arrive at the below mentioned [results](#results) for each of the questions showcased by the notebook titles.
 - **Business and Data Understanding.ipynb**
 - **Question 1 - Seasonal price trend.ipynb**
